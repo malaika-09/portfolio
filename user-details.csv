@@ -1,0 +1,15 @@
+﻿Field,Value,Example
+Full Name,,"Sarah Ahmed"
+Email,,"sarah@example.com"
+Phone (with country code),,"+92 300 1234567"
+WhatsApp Number (no + sign),,"923001234567"
+Location,,"Lahore, Pakistan"
+GitHub Username,,"sarahahmed"
+LinkedIn Profile,,"sarah-ahmed-robotics"
+Website Domain (optional),,sarahportfolio.com
+Admin Username,,admin
+Admin Password,,your_secure_password_123
+Short Bio,,"Robotics Engineer passionate about AI and automation"
+University,,"NUST Islamabad"
+Degree,,"BS Robotics Engineering"
+Graduation Year,,2024
