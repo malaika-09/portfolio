@@ -1,6 +1,6 @@
-# 🤖 Robotics Portfolio Platform
+# Electrical Enginnering Portfolio Platform
 
-Advanced portfolio platform for robotics engineers and researchers, built with Next.js 16, React 19, and TypeScript.
+Advanced portfolio platform for engineers and researchers, built with Next.js 16, React 19, and TypeScript.
 
 ## ✨ Features
 
@@ -76,7 +76,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 **Step 1: Create GitHub Repository**
 1. Go to https://github.com/new
-2. Repository name: `robotics-portfolio`
+2. Repository name: `portfolio`
 3. Don't initialize with README
 4. Click "Create repository"
 
@@ -105,7 +105,7 @@ The script will:
 **Step 4: Connect to Vercel**
 1. Go to https://vercel.com/new
 2. Click "Import Git Repository"
-3. Select `robotics-portfolio`
+3. Select `portfolio`
 4. Add Environment Variables:
    ```
    NODE_ENV=production
@@ -246,7 +246,7 @@ Three categories displayed in project sidebar:
 Currently supports:
 - English (en)
 - Arabic (ar) - Coming soon
-- Urdu (ur) - Coming soon
+- Urdu (ur) 
 
 ## 📊 Testing
 
@@ -298,7 +298,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📧 Contact
 
-- **GitHub**: [@mbj8467-a1ly](https://github.com/mbj8467-a1ly)
+- **GitHub**: [malaika-09](https://github.com/malaika-09)
 - **Website**: [Your deployed Vercel URL]
 
 ---
